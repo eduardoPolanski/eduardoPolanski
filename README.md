@@ -3,8 +3,8 @@
 ```javascript
 const whoAmI = {
   pronouns: "he" | "his",
-  email: "eduardo_polanski@hotmail.com"
   user: "Eduardo Polanski",
+  email: "eduardo_polanski@hotmail.com",
   role: "backend",
   current_edu: "Análise e Desenvolvimento de Sistema",
   hobbies: [
