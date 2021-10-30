@@ -1,8 +1,9 @@
 # Hello world! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;">
 
-```
+```javascript
 const whoAmI = {
   pronouns: "he" | "his",
+  email: "eduardo_polanski@hotmail.com"
   user: "Eduardo Polanski",
   role: "backend",
   current_edu: "Análise e Desenvolvimento de Sistema",
